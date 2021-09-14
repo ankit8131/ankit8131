@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am a software developer with good knowledge of Data Structures and Algorithms. I have a keen interest in Web Development with experience of building websites and web applications.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ankit8131)](https://git.io/streak-stats)
 <!-- <h1>Programming Languages</h1>
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)]
 - 🔭 I’m currently working on ...
