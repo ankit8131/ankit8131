@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a software developer with good knowledge of Data Structures and Algorithms. I have a keen interest in Web Development with experience of building websites and web applications.
+Senior Frontend Engineer with experience in ReactJs, NextJs, Javascript, Typescript, Redux, RTK Query, NodeJs, etc.
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ankit8131)](https://git.io/streak-stats)
 <!-- <h1>Programming Languages</h1>
